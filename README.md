@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on [Hosteleriapp](https://github.com/AlvaroMerinoFdz/HosteleriApp)
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **AI and Big Data**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AlvaroMerinoFdz](https://github.com/AlvaroMerinoFdz)
 
-- 💬 Ask me about **Android, Kotlin, Java, c#**
+- 💬 Ask me about **Android, Kotlin, Java, c#, Python**
 
 - 📫 How to reach me **alvaro.merino.fernandez@gmail.com**
 
